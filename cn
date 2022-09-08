@@ -1,3 +1,4 @@
+proxies:
   - {name: 🇨🇳 a.189.cn | 80︱10Mdps︱游戏 1, server: 180.76.54.32, port: 80, type: vmess, uuid: 1e8f45e9-5c43-4bb6-b3b9-3de280f53f58, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
   - {name: 🇨🇳 a.189.cn | 80︱10Mdps︱游戏 2, server: 106.12.140.40, port: 80, type: vmess, uuid: 1e8f45e9-5c43-4bb6-b3b9-3de280f53f58, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
   - {name: 🇨🇳 a.189.cn | 80︱10Mdps︱游戏 3, server: 106.12.131.41, port: 80, type: vmess, uuid: 1e8f45e9-5c43-4bb6-b3b9-3de280f53f58, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
