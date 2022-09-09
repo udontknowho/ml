@@ -1,5 +1,4 @@
 proxies:
-  - {name: 🇨🇳 【Beta】湖北电信免流, server: 121.62.16.226, port: 10006, type: vmess, uuid: 87fe7c85-1f88-4889-8eb5-1836d693798b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
   - {name: 🇨🇳 A北京BGP1000m, server: 1fe00293-a64c-4662-9990-88853e7a46d3.mianliu.store, port: 8888, type: vmess, uuid: dd954c89-dfe7-4b28-b583-25415b12a491, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
   - {name: 🇨🇳 A宁夏1000m, server: 3da3c0a6-2743-4641-ac93-b8969a7f6169.mianliu.store, port: 888, type: vmess, uuid: dd954c89-dfe7-4b28-b583-25415b12a491, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
   - {name: 🇨🇳 A辽宁1000m, server: a880be42-0497-c4dd-b88a-1ea92d189de4.mianliu.store, port: 80, type: vmess, uuid: dd954c89-dfe7-4b28-b583-25415b12a491, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
